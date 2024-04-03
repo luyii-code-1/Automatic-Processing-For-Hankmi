@@ -10,4 +10,5 @@
 ### 将所有的 APK 文件放入要执行脚本的目录中。
 ### 运行脚本，重命名格式：应用名-版本
 ### 重命名失败的apk将移动至failed文件夹
+### 将输出一个total.txt，您可以直接前往[http://store.api.luyii.cn/json.html](http://store.api.luyii.cn/json.html)修改json
 ## 需要用到aapt
