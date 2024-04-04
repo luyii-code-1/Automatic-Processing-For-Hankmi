@@ -1,5 +1,6 @@
 # Automatic-Processing-For-Hankmi
 ## Hankmi商店源自动化制作
+## 应用在线添加：[http://store.api.luyii.cn/json.html](http://store.api.luyii.cn/json.html)
 # AddJson.py
 ## 使用方法：
 ### 将所有的 APK 文件放入要执行脚本的目录中。
